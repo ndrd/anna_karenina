@@ -1,0 +1,3 @@
+[submodule "meeting-oblonsky-listener "]
+    path = meeting-oblonsky-listener 
+    url = git://github.com/ndrd/meeting-oblonsky-listener.git
